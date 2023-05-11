@@ -1,0 +1,2 @@
+<-- my first repo on Odin project -->
+hello!
